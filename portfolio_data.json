@@ -1,0 +1,4184 @@
+{
+  "stocks": [
+    {
+      "symbol": "EBL",
+      "total_shares": 2331.0,
+      "total_value_ltp": 1700464.5,
+      "buyers": {
+        "Birendra": 2331.0
+      },
+      "ltp": 729.5,
+      "closing_price": 729.5
+    },
+    {
+      "symbol": "IGI",
+      "total_shares": 3391.0,
+      "total_value_ltp": 1332323.9,
+      "buyers": {
+        "Birendra": 2548.0,
+        "Junu": 843.0
+      },
+      "ltp": 392.9,
+      "closing_price": 392.9
+    },
+    {
+      "symbol": "MBL",
+      "total_shares": 4551.0,
+      "total_value_ltp": 1128648.0,
+      "buyers": {
+        "Birendra": 4046.0,
+        "Janak": 505.0
+      },
+      "ltp": 248.0,
+      "closing_price": 248.0
+    },
+    {
+      "symbol": "NABIL",
+      "total_shares": 2072.0,
+      "total_value_ltp": 1119294.4000000001,
+      "buyers": {
+        "Birendra": 1547.0,
+        "Maiya": 338.0,
+        "Junu": 39.0,
+        "Sita": 148.0
+      },
+      "ltp": 540.2,
+      "closing_price": 540.2
+    },
+    {
+      "symbol": "SKBBL",
+      "total_shares": 1361.0,
+      "total_value_ltp": 1010542.5,
+      "buyers": {
+        "Birendra": 1361.0
+      },
+      "ltp": 742.5,
+      "closing_price": 742.5
+    },
+    {
+      "symbol": "SAPDBL",
+      "total_shares": 1300.0,
+      "total_value_ltp": 936000.0,
+      "buyers": {
+        "Birendra": 1300.0
+      },
+      "ltp": 720.0,
+      "closing_price": 720.0
+    },
+    {
+      "symbol": "KBL",
+      "total_shares": 2813.0,
+      "total_value_ltp": 596356.0,
+      "buyers": {
+        "Birendra": 1984.0,
+        "Maiya": 662.0,
+        "Junu": 167.0
+      },
+      "ltp": 212.0,
+      "closing_price": 212.0
+    },
+    {
+      "symbol": "LSL",
+      "total_shares": 2503.0,
+      "total_value_ltp": 543151.0,
+      "buyers": {
+        "Birendra": 1904.0,
+        "Janak": 599.0
+      },
+      "ltp": 217.0,
+      "closing_price": 217.0
+    },
+    {
+      "symbol": "SICL",
+      "total_shares": 880.0,
+      "total_value_ltp": 491920.0,
+      "buyers": {
+        "Birendra": 440.0,
+        "Maiya": 440.0
+      },
+      "ltp": 559.0,
+      "closing_price": 559.0
+    },
+    {
+      "symbol": "SCB",
+      "total_shares": 726.0,
+      "total_value_ltp": 468270.0,
+      "buyers": {
+        "Birendra": 676.0,
+        "Maiya": 25.0,
+        "Binam": 25.0
+      },
+      "ltp": 645.0,
+      "closing_price": 645.0
+    },
+    {
+      "symbol": "PCBL",
+      "total_shares": 1744.0,
+      "total_value_ltp": 410712.0,
+      "buyers": {
+        "Maiya": 1744.0
+      },
+      "ltp": 235.5,
+      "closing_price": 235.5
+    },
+    {
+      "symbol": "NLIC",
+      "total_shares": 589.0,
+      "total_value_ltp": 406586.7,
+      "buyers": {
+        "Birendra": 420.0,
+        "Janak": 169.0
+      },
+      "ltp": 690.3,
+      "closing_price": 690.3
+    },
+    {
+      "symbol": "MNBBL",
+      "total_shares": 1067.0,
+      "total_value_ltp": 380919.0,
+      "buyers": {
+        "Birendra": 1067.0
+      },
+      "ltp": 357.0,
+      "closing_price": 357.0
+    },
+    {
+      "symbol": "ADBL",
+      "total_shares": 1095.0,
+      "total_value_ltp": 327405.0,
+      "buyers": {
+        "Birendra": 1095.0
+      },
+      "ltp": 299.0,
+      "closing_price": 299.0
+    },
+    {
+      "symbol": "NUBL",
+      "total_shares": 567.0,
+      "total_value_ltp": 325458.0,
+      "buyers": {
+        "Birendra": 567.0
+      },
+      "ltp": 574.0,
+      "closing_price": 574.0
+    },
+    {
+      "symbol": "NRIC",
+      "total_shares": 375.0,
+      "total_value_ltp": 319125.0,
+      "buyers": {
+        "Birendra": 163.0,
+        "Maiya": 53.0,
+        "Binam": 53.0,
+        "Janak": 53.0,
+        "Sita": 53.0
+      },
+      "ltp": 851.0,
+      "closing_price": 851.0
+    },
+    {
+      "symbol": "SBI",
+      "total_shares": 709.0,
+      "total_value_ltp": 283600.0,
+      "buyers": {
+        "Birendra": 709.0
+      },
+      "ltp": 400.0,
+      "closing_price": 400.0
+    },
+    {
+      "symbol": "AKJCL",
+      "total_shares": 800.0,
+      "total_value_ltp": 274400.0,
+      "buyers": {
+        "Birendra": 750.0,
+        "Maiya": 50.0
+      },
+      "ltp": 343.0,
+      "closing_price": 343.0
+    },
+    {
+      "symbol": "SSHL",
+      "total_shares": 1400.0,
+      "total_value_ltp": 271600.0,
+      "buyers": {
+        "Birendra": 1400.0
+      },
+      "ltp": 194.0,
+      "closing_price": 194.0
+    },
+    {
+      "symbol": "SLBSL",
+      "total_shares": 308.0,
+      "total_value_ltp": 270116.0,
+      "buyers": {
+        "Birendra": 300.0,
+        "Maiya": 8.0
+      },
+      "ltp": 877.0,
+      "closing_price": 877.0
+    },
+    {
+      "symbol": "GRDBL",
+      "total_shares": 228.0,
+      "total_value_ltp": 224352.0,
+      "buyers": {
+        "Birendra": 228.0
+      },
+      "ltp": 984.0,
+      "closing_price": 984.0
+    },
+    {
+      "symbol": "NGPL",
+      "total_shares": 552.0,
+      "total_value_ltp": 219696.0,
+      "buyers": {
+        "Birendra": 552.0
+      },
+      "ltp": 398.0,
+      "closing_price": 398.0
+    },
+    {
+      "symbol": "HRL",
+      "total_shares": 407.0,
+      "total_value_ltp": 218721.79999999996,
+      "buyers": {
+        "Birendra": 301.0,
+        "Maiya": 32.0,
+        "Binam": 32.0,
+        "Junu": 21.0,
+        "Sita": 21.0
+      },
+      "ltp": 537.4,
+      "closing_price": 537.4
+    },
+    {
+      "symbol": "HIDCL",
+      "total_shares": 845.0,
+      "total_value_ltp": 204490.0,
+      "buyers": {
+        "Birendra": 670.0,
+        "Maiya": 75.0,
+        "Binam": 75.0,
+        "Sita": 25.0
+      },
+      "ltp": 242.0,
+      "closing_price": 242.0
+    },
+    {
+      "symbol": "NICA",
+      "total_shares": 646.0,
+      "total_value_ltp": 199032.6,
+      "buyers": {
+        "Maiya": 646.0
+      },
+      "ltp": 308.1,
+      "closing_price": 308.1
+    },
+    {
+      "symbol": "GHL",
+      "total_shares": 870.0,
+      "total_value_ltp": 197403.0,
+      "buyers": {
+        "Birendra": 600.0,
+        "Maiya": 90.0,
+        "Binam": 90.0,
+        "Sita": 90.0
+      },
+      "ltp": 226.9,
+      "closing_price": 226.9
+    },
+    {
+      "symbol": "RADHI",
+      "total_shares": 284.0,
+      "total_value_ltp": 194540.0,
+      "buyers": {
+        "Birendra": 284.0
+      },
+      "ltp": 685.0,
+      "closing_price": 685.0
+    },
+    {
+      "symbol": "HBL",
+      "total_shares": 1030.0,
+      "total_value_ltp": 194361.0,
+      "buyers": {
+        "Birendra": 147.0,
+        "Maiya": 873.0,
+        "Sita": 10.0
+      },
+      "ltp": 188.7,
+      "closing_price": 188.7
+    },
+    {
+      "symbol": "MATRI",
+      "total_shares": 228.0,
+      "total_value_ltp": 173280.0,
+      "buyers": {
+        "Birendra": 228.0
+      },
+      "ltp": 760.0,
+      "closing_price": 760.0
+    },
+    {
+      "symbol": "NESDO",
+      "total_shares": 128.0,
+      "total_value_ltp": 172160.0,
+      "buyers": {
+        "Birendra": 128.0
+      },
+      "ltp": 1345.0,
+      "closing_price": 1345.0
+    },
+    {
+      "symbol": "KKHC",
+      "total_shares": 500.0,
+      "total_value_ltp": 134500.0,
+      "buyers": {
+        "Birendra": 500.0
+      },
+      "ltp": 269.0,
+      "closing_price": 269.0
+    },
+    {
+      "symbol": "JOSHI",
+      "total_shares": 502.0,
+      "total_value_ltp": 130419.59999999998,
+      "buyers": {
+        "Birendra": 403.0,
+        "Maiya": 33.0,
+        "Binam": 33.0,
+        "Sita": 33.0
+      },
+      "ltp": 259.8,
+      "closing_price": 259.8
+    },
+    {
+      "symbol": "GBIME",
+      "total_shares": 527.0,
+      "total_value_ltp": 127534.0,
+      "buyers": {
+        "Birendra": 527.0
+      },
+      "ltp": 242.0,
+      "closing_price": 242.0
+    },
+    {
+      "symbol": "SPIL",
+      "total_shares": 204.0,
+      "total_value_ltp": 127500.0,
+      "buyers": {
+        "Birendra": 177.0,
+        "Maiya": 27.0
+      },
+      "ltp": 625.0,
+      "closing_price": 625.0
+    },
+    {
+      "symbol": "MCHL",
+      "total_shares": 500.0,
+      "total_value_ltp": 127000.0,
+      "buyers": {
+        "Birendra": 400.0,
+        "Maiya": 100.0
+      },
+      "ltp": 254.0,
+      "closing_price": 254.0
+    },
+    {
+      "symbol": "HEI",
+      "total_shares": 253.0,
+      "total_value_ltp": 123944.7,
+      "buyers": {
+        "Birendra": 253.0
+      },
+      "ltp": 489.9,
+      "closing_price": 489.9
+    },
+    {
+      "symbol": "PRVU",
+      "total_shares": 691.0,
+      "total_value_ltp": 123412.6,
+      "buyers": {
+        "Birendra": 691.0
+      },
+      "ltp": 178.6,
+      "closing_price": 178.6
+    },
+    {
+      "symbol": "SADBL",
+      "total_shares": 294.0,
+      "total_value_ltp": 119070.0,
+      "buyers": {
+        "Birendra": 294.0
+      },
+      "ltp": 405.0,
+      "closing_price": 405.0
+    },
+    {
+      "symbol": "CFCL",
+      "total_shares": 195.0,
+      "total_value_ltp": 114211.5,
+      "buyers": {
+        "Birendra": 137.0,
+        "Binam": 29.0,
+        "Sita": 29.0
+      },
+      "ltp": 585.7,
+      "closing_price": 585.7
+    },
+    {
+      "symbol": "BFC",
+      "total_shares": 248.0,
+      "total_value_ltp": 114005.6,
+      "buyers": {
+        "Birendra": 248.0
+      },
+      "ltp": 459.7,
+      "closing_price": 459.7
+    },
+    {
+      "symbol": "GILB",
+      "total_shares": 101.0,
+      "total_value_ltp": 110039.5,
+      "buyers": {
+        "Birendra": 101.0
+      },
+      "ltp": 1089.5,
+      "closing_price": 1089.5
+    },
+    {
+      "symbol": "SGHL",
+      "total_shares": 220.0,
+      "total_value_ltp": 108636.0,
+      "buyers": {
+        "Birendra": 200.0,
+        "Junu": 10.0,
+        "Sita": 10.0
+      },
+      "ltp": 493.8,
+      "closing_price": 493.8
+    },
+    {
+      "symbol": "RIDI",
+      "total_shares": 301.0,
+      "total_value_ltp": 104115.9,
+      "buyers": {
+        "Birendra": 281.0,
+        "Sita": 20.0
+      },
+      "ltp": 345.9,
+      "closing_price": 345.9
+    },
+    {
+      "symbol": "MEL",
+      "total_shares": 510.0,
+      "total_value_ltp": 102969.0,
+      "buyers": {
+        "Birendra": 200.0,
+        "Maiya": 300.0,
+        "Binam": 10.0
+      },
+      "ltp": 201.9,
+      "closing_price": 201.9
+    },
+    {
+      "symbol": "CORBL",
+      "total_shares": 110.0,
+      "total_value_ltp": 99242.0,
+      "buyers": {
+        "Maiya": 110.0
+      },
+      "ltp": 902.2,
+      "closing_price": 902.2
+    },
+    {
+      "symbol": "NMLBBL",
+      "total_shares": 200.0,
+      "total_value_ltp": 98000.0,
+      "buyers": {
+        "Birendra": 200.0
+      },
+      "ltp": 490.0,
+      "closing_price": 490.0
+    },
+    {
+      "symbol": "ALBSL",
+      "total_shares": 85.0,
+      "total_value_ltp": 94180.0,
+      "buyers": {
+        "Birendra": 62.0,
+        "Binam": 23.0
+      },
+      "ltp": 1108.0,
+      "closing_price": 1108.0
+    },
+    {
+      "symbol": "GMFIL",
+      "total_shares": 222.0,
+      "total_value_ltp": 92995.8,
+      "buyers": {
+        "Birendra": 222.0
+      },
+      "ltp": 418.9,
+      "closing_price": 418.9
+    },
+    {
+      "symbol": "UPCL",
+      "total_shares": 279.0,
+      "total_value_ltp": 92907.0,
+      "buyers": {
+        "Birendra": 93.0,
+        "Binam": 93.0,
+        "Sita": 93.0
+      },
+      "ltp": 333.0,
+      "closing_price": 333.0
+    },
+    {
+      "symbol": "HDHPC",
+      "total_shares": 450.0,
+      "total_value_ltp": 90900.0,
+      "buyers": {
+        "Birendra": 450.0
+      },
+      "ltp": 202.0,
+      "closing_price": 202.0
+    },
+    {
+      "symbol": "UPPER",
+      "total_shares": 480.0,
+      "total_value_ltp": 88320.0,
+      "buyers": {
+        "Birendra": 320.0,
+        "Maiya": 80.0,
+        "Sita": 80.0
+      },
+      "ltp": 184.0,
+      "closing_price": 184.0
+    },
+    {
+      "symbol": "HLI",
+      "total_shares": 277.0,
+      "total_value_ltp": 83100.0,
+      "buyers": {
+        "Birendra": 265.0,
+        "Junu": 12.0
+      },
+      "ltp": 300.0,
+      "closing_price": 300.0
+    },
+    {
+      "symbol": "DHPL",
+      "total_shares": 300.0,
+      "total_value_ltp": 82350.0,
+      "buyers": {
+        "Birendra": 300.0
+      },
+      "ltp": 274.5,
+      "closing_price": 274.5
+    },
+    {
+      "symbol": "SHIVM",
+      "total_shares": 126.0,
+      "total_value_ltp": 81900.0,
+      "buyers": {
+        "Birendra": 63.0,
+        "Binam": 63.0
+      },
+      "ltp": 650.0,
+      "closing_price": 650.0
+    },
+    {
+      "symbol": "NMB",
+      "total_shares": 333.0,
+      "total_value_ltp": 78854.4,
+      "buyers": {
+        "Birendra": 333.0
+      },
+      "ltp": 236.8,
+      "closing_price": 236.8
+    },
+    {
+      "symbol": "PROFL",
+      "total_shares": 200.0,
+      "total_value_ltp": 76800.0,
+      "buyers": {
+        "Birendra": 200.0
+      },
+      "ltp": 384.0,
+      "closing_price": 384.0
+    },
+    {
+      "symbol": "KDL",
+      "total_shares": 105.0,
+      "total_value_ltp": 76765.5,
+      "buyers": {
+        "Birendra": 105.0
+      },
+      "ltp": 731.1,
+      "closing_price": 731.1
+    },
+    {
+      "symbol": "GBLBS",
+      "total_shares": 115.0,
+      "total_value_ltp": 76590.0,
+      "buyers": {
+        "Birendra": 100.0,
+        "Binam": 15.0
+      },
+      "ltp": 666.0,
+      "closing_price": 666.0
+    },
+    {
+      "symbol": "CZBIL",
+      "total_shares": 387.0,
+      "total_value_ltp": 75387.59999999999,
+      "buyers": {
+        "Birendra": 373.0,
+        "Maiya": 14.0
+      },
+      "ltp": 194.8,
+      "closing_price": 194.8
+    },
+    {
+      "symbol": "CLI",
+      "total_shares": 178.0,
+      "total_value_ltp": 74243.8,
+      "buyers": {
+        "Birendra": 152.0,
+        "Binam": 13.0,
+        "Sita": 13.0
+      },
+      "ltp": 417.1,
+      "closing_price": 417.1
+    },
+    {
+      "symbol": "HHL",
+      "total_shares": 210.0,
+      "total_value_ltp": 68628.0,
+      "buyers": {
+        "Birendra": 100.0,
+        "Maiya": 100.0,
+        "Junu": 10.0
+      },
+      "ltp": 326.8,
+      "closing_price": 326.8
+    },
+    {
+      "symbol": "RURU",
+      "total_shares": 110.0,
+      "total_value_ltp": 64350.0,
+      "buyers": {
+        "Birendra": 110.0
+      },
+      "ltp": 585.0,
+      "closing_price": 585.0
+    },
+    {
+      "symbol": "SANVI",
+      "total_shares": 110.0,
+      "total_value_ltp": 63690.0,
+      "buyers": {
+        "Birendra": 100.0,
+        "Binam": 10.0
+      },
+      "ltp": 579.0,
+      "closing_price": 579.0
+    },
+    {
+      "symbol": "PMHPL",
+      "total_shares": 210.0,
+      "total_value_ltp": 63000.0,
+      "buyers": {
+        "Birendra": 200.0,
+        "Maiya": 10.0
+      },
+      "ltp": 300.0,
+      "closing_price": 300.0
+    },
+    {
+      "symbol": "AVYAN",
+      "total_shares": 60.0,
+      "total_value_ltp": 61056.0,
+      "buyers": {
+        "Birendra": 60.0
+      },
+      "ltp": 1017.6,
+      "closing_price": 1017.6
+    },
+    {
+      "symbol": "DORDI",
+      "total_shares": 240.0,
+      "total_value_ltp": 58080.0,
+      "buyers": {
+        "Maiya": 200.0,
+        "Binam": 20.0,
+        "Junu": 20.0
+      },
+      "ltp": 242.0,
+      "closing_price": 242.0
+    },
+    {
+      "symbol": "NYADI",
+      "total_shares": 160.0,
+      "total_value_ltp": 56000.0,
+      "buyers": {
+        "Birendra": 150.0,
+        "Binam": 10.0
+      },
+      "ltp": 350.0,
+      "closing_price": 350.0
+    },
+    {
+      "symbol": "NIFRA",
+      "total_shares": 234.0,
+      "total_value_ltp": 55926.0,
+      "buyers": {
+        "Birendra": 72.0,
+        "Maiya": 54.0,
+        "Binam": 54.0,
+        "Sita": 54.0
+      },
+      "ltp": 239.0,
+      "closing_price": 239.0
+    },
+    {
+      "symbol": "API",
+      "total_shares": 167.0,
+      "total_value_ltp": 54425.3,
+      "buyers": {
+        "Birendra": 110.0,
+        "Maiya": 57.0
+      },
+      "ltp": 325.9,
+      "closing_price": 325.9
+    },
+    {
+      "symbol": "TSHL",
+      "total_shares": 150.0,
+      "total_value_ltp": 50700.0,
+      "buyers": {
+        "Maiya": 150.0
+      },
+      "ltp": 338.0,
+      "closing_price": 338.0
+    },
+    {
+      "symbol": "SLBBL",
+      "total_shares": 64.0,
+      "total_value_ltp": 50560.0,
+      "buyers": {
+        "Birendra": 64.0
+      },
+      "ltp": 790.0,
+      "closing_price": 790.0
+    },
+    {
+      "symbol": "BHPL",
+      "total_shares": 100.0,
+      "total_value_ltp": 45800.0,
+      "buyers": {
+        "Birendra": 100.0
+      },
+      "ltp": 458.0,
+      "closing_price": 458.0
+    },
+    {
+      "symbol": "NRN",
+      "total_shares": 31.0,
+      "total_value_ltp": 41834.5,
+      "buyers": {
+        "Birendra": 15.0,
+        "Binam": 15.0,
+        "Sita": 1.0
+      },
+      "ltp": 1349.5,
+      "closing_price": 1349.5
+    },
+    {
+      "symbol": "NIMB",
+      "total_shares": 220.0,
+      "total_value_ltp": 40700.0,
+      "buyers": {
+        "Birendra": 65.0,
+        "Maiya": 65.0,
+        "Binam": 65.0,
+        "Sita": 25.0
+      },
+      "ltp": 185.0,
+      "closing_price": 185.0
+    },
+    {
+      "symbol": "LLBS",
+      "total_shares": 44.0,
+      "total_value_ltp": 38808.0,
+      "buyers": {
+        "Junu": 44.0
+      },
+      "ltp": 882.0,
+      "closing_price": 882.0
+    },
+    {
+      "symbol": "MBJC",
+      "total_shares": 150.0,
+      "total_value_ltp": 38565.0,
+      "buyers": {
+        "Birendra": 140.0,
+        "Maiya": 10.0
+      },
+      "ltp": 257.1,
+      "closing_price": 257.1
+    },
+    {
+      "symbol": "SHEL",
+      "total_shares": 126.0,
+      "total_value_ltp": 36867.6,
+      "buyers": {
+        "Birendra": 126.0
+      },
+      "ltp": 292.6,
+      "closing_price": 292.6
+    },
+    {
+      "symbol": "HATHY",
+      "total_shares": 58.0,
+      "total_value_ltp": 36279.0,
+      "buyers": {
+        "Birendra": 56.0,
+        "Sita": 2.0
+      },
+      "ltp": 625.5,
+      "closing_price": 625.5
+    },
+    {
+      "symbol": "PHCL",
+      "total_shares": 120.0,
+      "total_value_ltp": 35712.0,
+      "buyers": {
+        "Birendra": 110.0,
+        "Binam": 10.0
+      },
+      "ltp": 297.6,
+      "closing_price": 297.6
+    },
+    {
+      "symbol": "JBLB",
+      "total_shares": 28.0,
+      "total_value_ltp": 34977.6,
+      "buyers": {
+        "Junu": 28.0
+      },
+      "ltp": 1249.2,
+      "closing_price": 1249.2
+    },
+    {
+      "symbol": "SGIC",
+      "total_shares": 86.0,
+      "total_value_ltp": 34408.6,
+      "buyers": {
+        "Birendra": 56.0,
+        "Binam": 10.0,
+        "Junu": 10.0,
+        "Sita": 10.0
+      },
+      "ltp": 400.1,
+      "closing_price": 400.1
+    },
+    {
+      "symbol": "MHNL",
+      "total_shares": 140.0,
+      "total_value_ltp": 33432.0,
+      "buyers": {
+        "Birendra": 140.0
+      },
+      "ltp": 238.8,
+      "closing_price": 238.8
+    },
+    {
+      "symbol": "RSDC",
+      "total_shares": 54.0,
+      "total_value_ltp": 33004.8,
+      "buyers": {
+        "Birendra": 54.0
+      },
+      "ltp": 611.2,
+      "closing_price": 611.2
+    },
+    {
+      "symbol": "RFPL",
+      "total_shares": 100.0,
+      "total_value_ltp": 33000.0,
+      "buyers": {
+        "Birendra": 100.0
+      },
+      "ltp": 330.0,
+      "closing_price": 330.0
+    },
+    {
+      "symbol": "ILBS",
+      "total_shares": 39.0,
+      "total_value_ltp": 32682.0,
+      "buyers": {
+        "Birendra": 39.0
+      },
+      "ltp": 838.0,
+      "closing_price": 838.0
+    },
+    {
+      "symbol": "BARUN",
+      "total_shares": 104.0,
+      "total_value_ltp": 32645.6,
+      "buyers": {
+        "Birendra": 104.0
+      },
+      "ltp": 313.9,
+      "closing_price": 313.9
+    },
+    {
+      "symbol": "TVCL",
+      "total_shares": 90.0,
+      "total_value_ltp": 31860.0,
+      "buyers": {
+        "Birendra": 50.0,
+        "Maiya": 20.0,
+        "Sita": 20.0
+      },
+      "ltp": 354.0,
+      "closing_price": 354.0
+    },
+    {
+      "symbol": "NICLBSL",
+      "total_shares": 60.0,
+      "total_value_ltp": 31680.0,
+      "buyers": {
+        "Birendra": 20.0,
+        "Maiya": 10.0,
+        "Binam": 20.0,
+        "Sita": 10.0
+      },
+      "ltp": 528.0,
+      "closing_price": 528.0
+    },
+    {
+      "symbol": "IHL",
+      "total_shares": 100.0,
+      "total_value_ltp": 30000.0,
+      "buyers": {
+        "Birendra": 100.0
+      },
+      "ltp": 300.0,
+      "closing_price": 300.0
+    },
+    {
+      "symbol": "SRLI",
+      "total_shares": 81.0,
+      "total_value_ltp": 28941.3,
+      "buyers": {
+        "Birendra": 70.0,
+        "Binam": 11.0
+      },
+      "ltp": 357.3,
+      "closing_price": 357.3
+    },
+    {
+      "symbol": "MEHL",
+      "total_shares": 120.0,
+      "total_value_ltp": 28152.0,
+      "buyers": {
+        "Birendra": 20.0,
+        "Maiya": 100.0
+      },
+      "ltp": 234.6,
+      "closing_price": 234.6
+    },
+    {
+      "symbol": "SNLI",
+      "total_shares": 70.0,
+      "total_value_ltp": 27300.0,
+      "buyers": {
+        "Birendra": 19.0,
+        "Maiya": 17.0,
+        "Binam": 17.0,
+        "Sita": 17.0
+      },
+      "ltp": 390.0,
+      "closing_price": 390.0
+    },
+    {
+      "symbol": "PMLI",
+      "total_shares": 66.0,
+      "total_value_ltp": 27053.4,
+      "buyers": {
+        "Birendra": 40.0,
+        "Binam": 13.0,
+        "Junu": 13.0
+      },
+      "ltp": 409.9,
+      "closing_price": 409.9
+    },
+    {
+      "symbol": "HPPL",
+      "total_shares": 70.0,
+      "total_value_ltp": 25830.0,
+      "buyers": {
+        "Birendra": 15.0,
+        "Maiya": 15.0,
+        "Binam": 10.0,
+        "Sita": 30.0
+      },
+      "ltp": 369.0,
+      "closing_price": 369.0
+    },
+    {
+      "symbol": "PPL",
+      "total_shares": 75.0,
+      "total_value_ltp": 23100.0,
+      "buyers": {
+        "Birendra": 75.0
+      },
+      "ltp": 308.0,
+      "closing_price": 308.0
+    },
+    {
+      "symbol": "NADEP",
+      "total_shares": 30.0,
+      "total_value_ltp": 21420.0,
+      "buyers": {
+        "Sita": 30.0
+      },
+      "ltp": 714.0,
+      "closing_price": 714.0
+    },
+    {
+      "symbol": "KPCL",
+      "total_shares": 45.0,
+      "total_value_ltp": 20430.0,
+      "buyers": {
+        "Birendra": 15.0,
+        "Maiya": 15.0,
+        "Sita": 15.0
+      },
+      "ltp": 454.0,
+      "closing_price": 454.0
+    },
+    {
+      "symbol": "SONA",
+      "total_shares": 50.0,
+      "total_value_ltp": 20400.0,
+      "buyers": {
+        "Birendra": 20.0,
+        "Maiya": 10.0,
+        "Binam": 10.0,
+        "Sita": 10.0
+      },
+      "ltp": 408.0,
+      "closing_price": 408.0
+    },
+    {
+      "symbol": "PPCL",
+      "total_shares": 60.0,
+      "total_value_ltp": 19614.0,
+      "buyers": {
+        "Birendra": 30.0,
+        "Sita": 30.0
+      },
+      "ltp": 326.9,
+      "closing_price": 326.9
+    },
+    {
+      "symbol": "PFL",
+      "total_shares": 50.0,
+      "total_value_ltp": 18200.0,
+      "buyers": {
+        "Birendra": 50.0
+      },
+      "ltp": 364.0,
+      "closing_price": 364.0
+    },
+    {
+      "symbol": "UNHPL",
+      "total_shares": 50.0,
+      "total_value_ltp": 17900.0,
+      "buyers": {
+        "Birendra": 50.0
+      },
+      "ltp": 358.0,
+      "closing_price": 358.0
+    },
+    {
+      "symbol": "UAIL",
+      "total_shares": 42.0,
+      "total_value_ltp": 16329.6,
+      "buyers": {
+        "Birendra": 32.0,
+        "Binam": 10.0
+      },
+      "ltp": 388.8,
+      "closing_price": 388.8
+    },
+    {
+      "symbol": "CYCL",
+      "total_shares": 10.0,
+      "total_value_ltp": 16120.0,
+      "buyers": {
+        "Janak": 10.0
+      },
+      "ltp": 1612.0,
+      "closing_price": 1612.0
+    },
+    {
+      "symbol": "GMFBS",
+      "total_shares": 14.0,
+      "total_value_ltp": 16044.0,
+      "buyers": {
+        "Sita": 14.0
+      },
+      "ltp": 1146.0,
+      "closing_price": 1146.0
+    },
+    {
+      "symbol": "RHPL",
+      "total_shares": 80.0,
+      "total_value_ltp": 15040.0,
+      "buyers": {
+        "Birendra": 80.0
+      },
+      "ltp": 188.0,
+      "closing_price": 188.0
+    },
+    {
+      "symbol": "SJLIC",
+      "total_shares": 31.0,
+      "total_value_ltp": 12486.8,
+      "buyers": {
+        "Birendra": 21.0,
+        "Binam": 10.0
+      },
+      "ltp": 402.8,
+      "closing_price": 402.8
+    },
+    {
+      "symbol": "AKPL",
+      "total_shares": 50.0,
+      "total_value_ltp": 12200.0,
+      "buyers": {
+        "Birendra": 25.0,
+        "Maiya": 25.0
+      },
+      "ltp": 244.0,
+      "closing_price": 244.0
+    },
+    {
+      "symbol": "ACLBSL",
+      "total_shares": 13.0,
+      "total_value_ltp": 11700.0,
+      "buyers": {
+        "Birendra": 13.0
+      },
+      "ltp": 900.0,
+      "closing_price": 900.0
+    },
+    {
+      "symbol": "RNLI",
+      "total_shares": 24.0,
+      "total_value_ltp": 9960.0,
+      "buyers": {
+        "Maiya": 12.0,
+        "Sita": 12.0
+      },
+      "ltp": 415.0,
+      "closing_price": 415.0
+    },
+    {
+      "symbol": "SJCL",
+      "total_shares": 40.0,
+      "total_value_ltp": 9080.0,
+      "buyers": {
+        "Birendra": 40.0
+      },
+      "ltp": 227.0,
+      "closing_price": 227.0
+    },
+    {
+      "symbol": "SAHAS",
+      "total_shares": 13.0,
+      "total_value_ltp": 8866.0,
+      "buyers": {
+        "Maiya": 13.0
+      },
+      "ltp": 682.0,
+      "closing_price": 682.0
+    },
+    {
+      "symbol": "MKCL",
+      "total_shares": 10.0,
+      "total_value_ltp": 8700.0,
+      "buyers": {
+        "Sita": 10.0
+      },
+      "ltp": 870.0,
+      "closing_price": 870.0
+    },
+    {
+      "symbol": "SMJC",
+      "total_shares": 20.0,
+      "total_value_ltp": 8380.0,
+      "buyers": {
+        "Birendra": 10.0,
+        "Maiya": 10.0
+      },
+      "ltp": 419.0,
+      "closing_price": 419.0
+    },
+    {
+      "symbol": "NMIC",
+      "total_shares": 10.0,
+      "total_value_ltp": 8210.0,
+      "buyers": {
+        "Birendra": 10.0
+      },
+      "ltp": 821.0,
+      "closing_price": 821.0
+    },
+    {
+      "symbol": "BHL",
+      "total_shares": 40.0,
+      "total_value_ltp": 7988.0,
+      "buyers": {
+        "Birendra": 20.0,
+        "Maiya": 20.0
+      },
+      "ltp": 199.7,
+      "closing_price": 199.7
+    },
+    {
+      "symbol": "CGH",
+      "total_shares": 10.0,
+      "total_value_ltp": 7700.0,
+      "buyers": {
+        "Birendra": 10.0
+      },
+      "ltp": 770.0,
+      "closing_price": 770.0
+    },
+    {
+      "symbol": "DLBS",
+      "total_shares": 7.0,
+      "total_value_ltp": 7049.7,
+      "buyers": {
+        "Junu": 7.0
+      },
+      "ltp": 1007.1,
+      "closing_price": 1007.1
+    },
+    {
+      "symbol": "BJHL",
+      "total_shares": 10.0,
+      "total_value_ltp": 6650.0,
+      "buyers": {
+        "Birendra": 10.0
+      },
+      "ltp": 665.0,
+      "closing_price": 665.0
+    },
+    {
+      "symbol": "HFIN",
+      "total_shares": 10.0,
+      "total_value_ltp": 6280.0,
+      "buyers": {
+        "Birendra": 10.0
+      },
+      "ltp": 628.0,
+      "closing_price": 628.0
+    },
+    {
+      "symbol": "PCIL",
+      "total_shares": 10.0,
+      "total_value_ltp": 6210.0,
+      "buyers": {
+        "Janak": 10.0
+      },
+      "ltp": 621.0,
+      "closing_price": 621.0
+    },
+    {
+      "symbol": "SPDL",
+      "total_shares": 17.0,
+      "total_value_ltp": 6001.0,
+      "buyers": {
+        "Binam": 17.0
+      },
+      "ltp": 353.0,
+      "closing_price": 353.0
+    },
+    {
+      "symbol": "JBBL",
+      "total_shares": 18.0,
+      "total_value_ltp": 5974.2,
+      "buyers": {
+        "Birendra": 18.0
+      },
+      "ltp": 331.9,
+      "closing_price": 331.9
+    },
+    {
+      "symbol": "NRM",
+      "total_shares": 20.0,
+      "total_value_ltp": 5770.0,
+      "buyers": {
+        "Birendra": 10.0,
+        "Binam": 10.0
+      },
+      "ltp": 288.5,
+      "closing_price": 288.5
+    },
+    {
+      "symbol": "UMRH",
+      "total_shares": 11.0,
+      "total_value_ltp": 5716.7,
+      "buyers": {
+        "Birendra": 11.0
+      },
+      "ltp": 519.7,
+      "closing_price": 519.7
+    },
+    {
+      "symbol": "ILI",
+      "total_shares": 14.0,
+      "total_value_ltp": 5644.799999999999,
+      "buyers": {
+        "Binam": 12.0,
+        "Junu": 2.0
+      },
+      "ltp": 403.2,
+      "closing_price": 403.2
+    },
+    {
+      "symbol": "GVL",
+      "total_shares": 11.0,
+      "total_value_ltp": 5238.2,
+      "buyers": {
+        "Binam": 11.0
+      },
+      "ltp": 476.2,
+      "closing_price": 476.2
+    },
+    {
+      "symbol": "TPKHL",
+      "total_shares": 10.0,
+      "total_value_ltp": 5090.0,
+      "buyers": {
+        "Maiya": 10.0
+      },
+      "ltp": 509.0,
+      "closing_price": 509.0
+    },
+    {
+      "symbol": "KAHL",
+      "total_shares": 10.0,
+      "total_value_ltp": 5025.0,
+      "buyers": {
+        "Junu": 10.0
+      },
+      "ltp": 502.5,
+      "closing_price": 502.5
+    },
+    {
+      "symbol": "KMCDB",
+      "total_shares": 6.0,
+      "total_value_ltp": 4647.6,
+      "buyers": {
+        "Birendra": 6.0
+      },
+      "ltp": 774.6,
+      "closing_price": 774.6
+    },
+    {
+      "symbol": "BHDC",
+      "total_shares": 11.0,
+      "total_value_ltp": 4620.0,
+      "buyers": {
+        "Binam": 11.0
+      },
+      "ltp": 420.0,
+      "closing_price": 420.0
+    },
+    {
+      "symbol": "SGHC",
+      "total_shares": 10.0,
+      "total_value_ltp": 2900.0,
+      "buyers": {
+        "Binam": 10.0
+      },
+      "ltp": 290.0,
+      "closing_price": 290.0
+    },
+    {
+      "symbol": "MKHC",
+      "total_shares": 10.0,
+      "total_value_ltp": 2469.0,
+      "buyers": {
+        "Maiya": 10.0
+      },
+      "ltp": 246.9,
+      "closing_price": 246.9
+    },
+    {
+      "symbol": "RSY",
+      "total_shares": 200.0,
+      "total_value_ltp": 1888.0,
+      "buyers": {
+        "Birendra": 200.0
+      },
+      "ltp": 9.44,
+      "closing_price": 9.44
+    }
+  ],
+  "entries": [
+    {
+      "symbol": "ADBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 152.0,
+      "closing_price": 299.0,
+      "closing_value": 45448.0,
+      "ltp": 299.0,
+      "ltp_value": 45448.0
+    },
+    {
+      "symbol": "AKJCL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 750.0,
+      "closing_price": 343.0,
+      "closing_value": 257250.0,
+      "ltp": 343.0,
+      "ltp_value": 257250.0
+    },
+    {
+      "symbol": "ALBSL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 62.0,
+      "closing_price": 1108.0,
+      "closing_value": 68696.0,
+      "ltp": 1108.0,
+      "ltp_value": 68696.0
+    },
+    {
+      "symbol": "API",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 110.0,
+      "closing_price": 325.9,
+      "closing_value": 35849.0,
+      "ltp": 325.9,
+      "ltp_value": 35849.0
+    },
+    {
+      "symbol": "AVYAN",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 60.0,
+      "closing_price": 1017.6,
+      "closing_value": 61056.0,
+      "ltp": 1017.6,
+      "ltp_value": 61056.0
+    },
+    {
+      "symbol": "BHL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 20.0,
+      "closing_price": 199.7,
+      "closing_value": 3994.0,
+      "ltp": 199.7,
+      "ltp_value": 3994.0
+    },
+    {
+      "symbol": "CFCL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 108.0,
+      "closing_price": 585.7,
+      "closing_value": 63255.6,
+      "ltp": 585.7,
+      "ltp_value": 63255.6
+    },
+    {
+      "symbol": "CLI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 13.0,
+      "closing_price": 417.1,
+      "closing_value": 5422.3,
+      "ltp": 417.1,
+      "ltp_value": 5422.3
+    },
+    {
+      "symbol": "DHPL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 200.0,
+      "closing_price": 274.5,
+      "closing_value": 54900.0,
+      "ltp": 274.5,
+      "ltp_value": 54900.0
+    },
+    {
+      "symbol": "EBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 132.0,
+      "closing_price": 729.5,
+      "closing_value": 96294.0,
+      "ltp": 729.5,
+      "ltp_value": 96294.0
+    },
+    {
+      "symbol": "GBIME",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 527.0,
+      "closing_price": 242.0,
+      "closing_value": 127534.0,
+      "ltp": 242.0,
+      "ltp_value": 127534.0
+    },
+    {
+      "symbol": "GHL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 600.0,
+      "closing_price": 226.9,
+      "closing_value": 136140.0,
+      "ltp": 226.9,
+      "ltp_value": 136140.0
+    },
+    {
+      "symbol": "GMFIL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 222.0,
+      "closing_price": 418.9,
+      "closing_value": 92995.8,
+      "ltp": 418.9,
+      "ltp_value": 92995.8
+    },
+    {
+      "symbol": "HBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 137.0,
+      "closing_price": 188.7,
+      "closing_value": 25851.9,
+      "ltp": 188.7,
+      "ltp_value": 25851.9
+    },
+    {
+      "symbol": "HDHPC",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 450.0,
+      "closing_price": 202.0,
+      "closing_value": 90900.0,
+      "ltp": 202.0,
+      "ltp_value": 90900.0
+    },
+    {
+      "symbol": "HEI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 253.0,
+      "closing_price": 489.9,
+      "closing_value": 123944.7,
+      "ltp": 489.9,
+      "ltp_value": 123944.7
+    },
+    {
+      "symbol": "HIDCL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 462.0,
+      "closing_price": 242.0,
+      "closing_value": 111804.0,
+      "ltp": 242.0,
+      "ltp_value": 111804.0
+    },
+    {
+      "symbol": "HLI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 151.0,
+      "closing_price": 300.0,
+      "closing_value": 45300.0,
+      "ltp": 300.0,
+      "ltp_value": 45300.0
+    },
+    {
+      "symbol": "HRL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 249.0,
+      "closing_price": 537.4,
+      "closing_value": 133812.6,
+      "ltp": 537.4,
+      "ltp_value": 133812.6
+    },
+    {
+      "symbol": "IGI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 784.0,
+      "closing_price": 392.9,
+      "closing_value": 308033.6,
+      "ltp": 392.9,
+      "ltp_value": 308033.6
+    },
+    {
+      "symbol": "KBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 807.0,
+      "closing_price": 212.0,
+      "closing_value": 171084.0,
+      "ltp": 212.0,
+      "ltp_value": 171084.0
+    },
+    {
+      "symbol": "LSL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 103.0,
+      "closing_price": 217.0,
+      "closing_value": 22351.0,
+      "ltp": 217.0,
+      "ltp_value": 22351.0
+    },
+    {
+      "symbol": "MATRI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 78.0,
+      "closing_price": 760.0,
+      "closing_value": 59280.0,
+      "ltp": 760.0,
+      "ltp_value": 59280.0
+    },
+    {
+      "symbol": "MBJC",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 50.0,
+      "closing_price": 257.1,
+      "closing_value": 12855.0,
+      "ltp": 257.1,
+      "ltp_value": 12855.0
+    },
+    {
+      "symbol": "MBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 201.0,
+      "closing_price": 248.0,
+      "closing_value": 49848.0,
+      "ltp": 248.0,
+      "ltp_value": 49848.0
+    },
+    {
+      "symbol": "MNBBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 114.0,
+      "closing_price": 357.0,
+      "closing_value": 40698.0,
+      "ltp": 357.0,
+      "ltp_value": 40698.0
+    },
+    {
+      "symbol": "NGPL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 552.0,
+      "closing_price": 398.0,
+      "closing_value": 219696.0,
+      "ltp": 398.0,
+      "ltp_value": 219696.0
+    },
+    {
+      "symbol": "NIFRA",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 4.0,
+      "closing_price": 239.0,
+      "closing_value": 956.0,
+      "ltp": 239.0,
+      "ltp_value": 956.0
+    },
+    {
+      "symbol": "NLIC",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 316.0,
+      "closing_price": 690.3,
+      "closing_value": 218134.8,
+      "ltp": 690.3,
+      "ltp_value": 218134.8
+    },
+    {
+      "symbol": "NMB",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 333.0,
+      "closing_price": 236.8,
+      "closing_value": 78854.4,
+      "ltp": 236.8,
+      "ltp_value": 78854.4
+    },
+    {
+      "symbol": "NMLBBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 200.0,
+      "closing_price": 490.0,
+      "closing_value": 98000.0,
+      "ltp": 490.0,
+      "ltp_value": 98000.0
+    },
+    {
+      "symbol": "NRM",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 10.0,
+      "closing_price": 288.5,
+      "closing_value": 2885.0,
+      "ltp": 288.5,
+      "ltp_value": 2885.0
+    },
+    {
+      "symbol": "NUBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 19.0,
+      "closing_price": 574.0,
+      "closing_value": 10906.0,
+      "ltp": 574.0,
+      "ltp_value": 10906.0
+    },
+    {
+      "symbol": "NYADI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 50.0,
+      "closing_price": 350.0,
+      "closing_value": 17500.0,
+      "ltp": 350.0,
+      "ltp_value": 17500.0
+    },
+    {
+      "symbol": "PHCL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 10.0,
+      "closing_price": 297.6,
+      "closing_value": 2976.0,
+      "ltp": 297.6,
+      "ltp_value": 2976.0
+    },
+    {
+      "symbol": "PMHPL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 200.0,
+      "closing_price": 300.0,
+      "closing_value": 60000.0,
+      "ltp": 300.0,
+      "ltp_value": 60000.0
+    },
+    {
+      "symbol": "PMLI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 27.0,
+      "closing_price": 409.9,
+      "closing_value": 11067.3,
+      "ltp": 409.9,
+      "ltp_value": 11067.3
+    },
+    {
+      "symbol": "PRVU",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 340.0,
+      "closing_price": 178.6,
+      "closing_value": 60724.0,
+      "ltp": 178.6,
+      "ltp_value": 60724.0
+    },
+    {
+      "symbol": "RADHI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 284.0,
+      "closing_price": 685.0,
+      "closing_value": 194540.0,
+      "ltp": 685.0,
+      "ltp_value": 194540.0
+    },
+    {
+      "symbol": "RIDI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 181.0,
+      "closing_price": 345.9,
+      "closing_value": 62607.9,
+      "ltp": 345.9,
+      "ltp_value": 62607.9
+    },
+    {
+      "symbol": "RSDC",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 54.0,
+      "closing_price": 611.2,
+      "closing_value": 33004.8,
+      "ltp": 611.2,
+      "ltp_value": 33004.8
+    },
+    {
+      "symbol": "RSY",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 100.0,
+      "closing_price": 9.44,
+      "closing_value": 944.0,
+      "ltp": 9.44,
+      "ltp_value": 944.0
+    },
+    {
+      "symbol": "SADBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 294.0,
+      "closing_price": 405.0,
+      "closing_value": 119070.0,
+      "ltp": 405.0,
+      "ltp_value": 119070.0
+    },
+    {
+      "symbol": "SBI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 127.0,
+      "closing_price": 400.0,
+      "closing_value": 50800.0,
+      "ltp": 400.0,
+      "ltp_value": 50800.0
+    },
+    {
+      "symbol": "SCB",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 23.0,
+      "closing_price": 645.0,
+      "closing_value": 14835.0,
+      "ltp": 645.0,
+      "ltp_value": 14835.0
+    },
+    {
+      "symbol": "SGIC",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 55.0,
+      "closing_price": 400.1,
+      "closing_value": 22005.5,
+      "ltp": 400.1,
+      "ltp_value": 22005.5
+    },
+    {
+      "symbol": "SHEL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 105.0,
+      "closing_price": 292.6,
+      "closing_value": 30723.0,
+      "ltp": 292.6,
+      "ltp_value": 30723.0
+    },
+    {
+      "symbol": "SJLIC",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 21.0,
+      "closing_price": 402.8,
+      "closing_value": 8458.8,
+      "ltp": 402.8,
+      "ltp_value": 8458.8
+    },
+    {
+      "symbol": "SLBBL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 64.0,
+      "closing_price": 790.0,
+      "closing_value": 50560.0,
+      "ltp": 790.0,
+      "ltp_value": 50560.0
+    },
+    {
+      "symbol": "SMJC",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 10.0,
+      "closing_price": 419.0,
+      "closing_value": 4190.0,
+      "ltp": 419.0,
+      "ltp_value": 4190.0
+    },
+    {
+      "symbol": "SNLI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 17.0,
+      "closing_price": 390.0,
+      "closing_value": 6630.0,
+      "ltp": 390.0,
+      "ltp_value": 6630.0
+    },
+    {
+      "symbol": "SONA",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 10.0,
+      "closing_price": 408.0,
+      "closing_value": 4080.0,
+      "ltp": 408.0,
+      "ltp_value": 4080.0
+    },
+    {
+      "symbol": "SRLI",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 59.0,
+      "closing_price": 357.3,
+      "closing_value": 21080.7,
+      "ltp": 357.3,
+      "ltp_value": 21080.7
+    },
+    {
+      "symbol": "SSHL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 200.0,
+      "closing_price": 194.0,
+      "closing_value": 38800.0,
+      "ltp": 194.0,
+      "ltp_value": 38800.0
+    },
+    {
+      "symbol": "UNHPL",
+      "buyer": "Birendra",
+      "broker": "NMB",
+      "shares": 50.0,
+      "closing_price": 358.0,
+      "closing_value": 17900.0,
+      "ltp": 358.0,
+      "ltp_value": 17900.0
+    },
+    {
+      "symbol": "ACLBSL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 13.0,
+      "closing_price": 900.0,
+      "closing_value": 11700.0,
+      "ltp": 900.0,
+      "ltp_value": 11700.0
+    },
+    {
+      "symbol": "ADBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 943.0,
+      "closing_price": 299.0,
+      "closing_value": 281957.0,
+      "ltp": 299.0,
+      "ltp_value": 281957.0
+    },
+    {
+      "symbol": "AKPL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 25.0,
+      "closing_price": 244.0,
+      "closing_value": 6100.0,
+      "ltp": 244.0,
+      "ltp_value": 6100.0
+    },
+    {
+      "symbol": "BARUN",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 104.0,
+      "closing_price": 313.9,
+      "closing_value": 32645.6,
+      "ltp": 313.9,
+      "ltp_value": 32645.6
+    },
+    {
+      "symbol": "BFC",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 248.0,
+      "closing_price": 459.7,
+      "closing_value": 114005.6,
+      "ltp": 459.7,
+      "ltp_value": 114005.6
+    },
+    {
+      "symbol": "BHPL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 458.0,
+      "closing_value": 45800.0,
+      "ltp": 458.0,
+      "ltp_value": 45800.0
+    },
+    {
+      "symbol": "BJHL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 665.0,
+      "closing_value": 6650.0,
+      "ltp": 665.0,
+      "ltp_value": 6650.0
+    },
+    {
+      "symbol": "CFCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 29.0,
+      "closing_price": 585.7,
+      "closing_value": 16985.3,
+      "ltp": 585.7,
+      "ltp_value": 16985.3
+    },
+    {
+      "symbol": "CGH",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 770.0,
+      "closing_value": 7700.0,
+      "ltp": 770.0,
+      "ltp_value": 7700.0
+    },
+    {
+      "symbol": "CLI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 139.0,
+      "closing_price": 417.1,
+      "closing_value": 57976.9,
+      "ltp": 417.1,
+      "ltp_value": 57976.9
+    },
+    {
+      "symbol": "CZBIL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 373.0,
+      "closing_price": 194.8,
+      "closing_value": 72660.4,
+      "ltp": 194.8,
+      "ltp_value": 72660.4
+    },
+    {
+      "symbol": "DHPL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 274.5,
+      "closing_value": 27450.0,
+      "ltp": 274.5,
+      "ltp_value": 27450.0
+    },
+    {
+      "symbol": "EBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 2199.0,
+      "closing_price": 729.5,
+      "closing_value": 1604170.5,
+      "ltp": 729.5,
+      "ltp_value": 1604170.5
+    },
+    {
+      "symbol": "GBLBS",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 666.0,
+      "closing_value": 66600.0,
+      "ltp": 666.0,
+      "ltp_value": 66600.0
+    },
+    {
+      "symbol": "GILB",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 101.0,
+      "closing_price": 1089.5,
+      "closing_value": 110039.5,
+      "ltp": 1089.5,
+      "ltp_value": 110039.5
+    },
+    {
+      "symbol": "GRDBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 228.0,
+      "closing_price": 984.0,
+      "closing_value": 224352.0,
+      "ltp": 984.0,
+      "ltp_value": 224352.0
+    },
+    {
+      "symbol": "HATHY",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 56.0,
+      "closing_price": 625.5,
+      "closing_value": 35028.0,
+      "ltp": 625.5,
+      "ltp_value": 35028.0
+    },
+    {
+      "symbol": "HBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 188.7,
+      "closing_value": 1887.0,
+      "ltp": 188.7,
+      "ltp_value": 1887.0
+    },
+    {
+      "symbol": "HFIN",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 628.0,
+      "closing_value": 6280.0,
+      "ltp": 628.0,
+      "ltp_value": 6280.0
+    },
+    {
+      "symbol": "HHL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 326.8,
+      "closing_value": 32680.0,
+      "ltp": 326.8,
+      "ltp_value": 32680.0
+    },
+    {
+      "symbol": "HIDCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 208.0,
+      "closing_price": 242.0,
+      "closing_value": 50336.0,
+      "ltp": 242.0,
+      "ltp_value": 50336.0
+    },
+    {
+      "symbol": "HLI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 114.0,
+      "closing_price": 300.0,
+      "closing_value": 34200.0,
+      "ltp": 300.0,
+      "ltp_value": 34200.0
+    },
+    {
+      "symbol": "HPPL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 369.0,
+      "closing_value": 5535.0,
+      "ltp": 369.0,
+      "ltp_value": 5535.0
+    },
+    {
+      "symbol": "HRL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 52.0,
+      "closing_price": 537.4,
+      "closing_value": 27944.8,
+      "ltp": 537.4,
+      "ltp_value": 27944.8
+    },
+    {
+      "symbol": "IGI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1764.0,
+      "closing_price": 392.9,
+      "closing_value": 693075.6,
+      "ltp": 392.9,
+      "ltp_value": 693075.6
+    },
+    {
+      "symbol": "IHL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 300.0,
+      "closing_value": 30000.0,
+      "ltp": 300.0,
+      "ltp_value": 30000.0
+    },
+    {
+      "symbol": "ILBS",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 39.0,
+      "closing_price": 838.0,
+      "closing_value": 32682.0,
+      "ltp": 838.0,
+      "ltp_value": 32682.0
+    },
+    {
+      "symbol": "JBBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 18.0,
+      "closing_price": 331.9,
+      "closing_value": 5974.2,
+      "ltp": 331.9,
+      "ltp_value": 5974.2
+    },
+    {
+      "symbol": "JOSHI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 403.0,
+      "closing_price": 259.8,
+      "closing_value": 104699.4,
+      "ltp": 259.8,
+      "ltp_value": 104699.4
+    },
+    {
+      "symbol": "KBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1177.0,
+      "closing_price": 212.0,
+      "closing_value": 249524.0,
+      "ltp": 212.0,
+      "ltp_value": 249524.0
+    },
+    {
+      "symbol": "KDL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 105.0,
+      "closing_price": 731.1,
+      "closing_value": 76765.5,
+      "ltp": 731.1,
+      "ltp_value": 76765.5
+    },
+    {
+      "symbol": "KKHC",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 500.0,
+      "closing_price": 269.0,
+      "closing_value": 134500.0,
+      "ltp": 269.0,
+      "ltp_value": 134500.0
+    },
+    {
+      "symbol": "KMCDB",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 6.0,
+      "closing_price": 774.6,
+      "closing_value": 4647.6,
+      "ltp": 774.6,
+      "ltp_value": 4647.6
+    },
+    {
+      "symbol": "KPCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 454.0,
+      "closing_value": 6810.0,
+      "ltp": 454.0,
+      "ltp_value": 6810.0
+    },
+    {
+      "symbol": "LSL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1801.0,
+      "closing_price": 217.0,
+      "closing_value": 390817.0,
+      "ltp": 217.0,
+      "ltp_value": 390817.0
+    },
+    {
+      "symbol": "MATRI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 150.0,
+      "closing_price": 760.0,
+      "closing_value": 114000.0,
+      "ltp": 760.0,
+      "ltp_value": 114000.0
+    },
+    {
+      "symbol": "MBJC",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 90.0,
+      "closing_price": 257.1,
+      "closing_value": 23139.0,
+      "ltp": 257.1,
+      "ltp_value": 23139.0
+    },
+    {
+      "symbol": "MBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 3845.0,
+      "closing_price": 248.0,
+      "closing_value": 953560.0,
+      "ltp": 248.0,
+      "ltp_value": 953560.0
+    },
+    {
+      "symbol": "MCHL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 400.0,
+      "closing_price": 254.0,
+      "closing_value": 101600.0,
+      "ltp": 254.0,
+      "ltp_value": 101600.0
+    },
+    {
+      "symbol": "MEHL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 234.6,
+      "closing_value": 4692.0,
+      "ltp": 234.6,
+      "ltp_value": 4692.0
+    },
+    {
+      "symbol": "MEL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 200.0,
+      "closing_price": 201.9,
+      "closing_value": 40380.0,
+      "ltp": 201.9,
+      "ltp_value": 40380.0
+    },
+    {
+      "symbol": "MHNL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 140.0,
+      "closing_price": 238.8,
+      "closing_value": 33432.0,
+      "ltp": 238.8,
+      "ltp_value": 33432.0
+    },
+    {
+      "symbol": "MNBBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 953.0,
+      "closing_price": 357.0,
+      "closing_value": 340221.0,
+      "ltp": 357.0,
+      "ltp_value": 340221.0
+    },
+    {
+      "symbol": "NABIL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1547.0,
+      "closing_price": 540.2,
+      "closing_value": 835689.4,
+      "ltp": 540.2,
+      "ltp_value": 835689.4
+    },
+    {
+      "symbol": "NESDO",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 128.0,
+      "closing_price": 1345.0,
+      "closing_value": 172160.0,
+      "ltp": 1345.0,
+      "ltp_value": 172160.0
+    },
+    {
+      "symbol": "NICLBSL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 528.0,
+      "closing_value": 10560.0,
+      "ltp": 528.0,
+      "ltp_value": 10560.0
+    },
+    {
+      "symbol": "NIFRA",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 68.0,
+      "closing_price": 239.0,
+      "closing_value": 16252.0,
+      "ltp": 239.0,
+      "ltp_value": 16252.0
+    },
+    {
+      "symbol": "NIMB",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 65.0,
+      "closing_price": 185.0,
+      "closing_value": 12025.0,
+      "ltp": 185.0,
+      "ltp_value": 12025.0
+    },
+    {
+      "symbol": "NLIC",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 104.0,
+      "closing_price": 690.3,
+      "closing_value": 71791.2,
+      "ltp": 690.3,
+      "ltp_value": 71791.2
+    },
+    {
+      "symbol": "NMIC",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 821.0,
+      "closing_value": 8210.0,
+      "ltp": 821.0,
+      "ltp_value": 8210.0
+    },
+    {
+      "symbol": "NRIC",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 163.0,
+      "closing_price": 851.0,
+      "closing_value": 138713.0,
+      "ltp": 851.0,
+      "ltp_value": 138713.0
+    },
+    {
+      "symbol": "NRN",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 1349.5,
+      "closing_value": 20242.5,
+      "ltp": 1349.5,
+      "ltp_value": 20242.5
+    },
+    {
+      "symbol": "NUBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 548.0,
+      "closing_price": 574.0,
+      "closing_value": 314552.0,
+      "ltp": 574.0,
+      "ltp_value": 314552.0
+    },
+    {
+      "symbol": "NYADI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 350.0,
+      "closing_value": 35000.0,
+      "ltp": 350.0,
+      "ltp_value": 35000.0
+    },
+    {
+      "symbol": "PFL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 50.0,
+      "closing_price": 364.0,
+      "closing_value": 18200.0,
+      "ltp": 364.0,
+      "ltp_value": 18200.0
+    },
+    {
+      "symbol": "PHCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 297.6,
+      "closing_value": 29760.0,
+      "ltp": 297.6,
+      "ltp_value": 29760.0
+    },
+    {
+      "symbol": "PMLI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 13.0,
+      "closing_price": 409.9,
+      "closing_value": 5328.7,
+      "ltp": 409.9,
+      "ltp_value": 5328.7
+    },
+    {
+      "symbol": "PPCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 30.0,
+      "closing_price": 326.9,
+      "closing_value": 9807.0,
+      "ltp": 326.9,
+      "ltp_value": 9807.0
+    },
+    {
+      "symbol": "PPL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 75.0,
+      "closing_price": 308.0,
+      "closing_value": 23100.0,
+      "ltp": 308.0,
+      "ltp_value": 23100.0
+    },
+    {
+      "symbol": "PROFL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 200.0,
+      "closing_price": 384.0,
+      "closing_value": 76800.0,
+      "ltp": 384.0,
+      "ltp_value": 76800.0
+    },
+    {
+      "symbol": "PRVU",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 351.0,
+      "closing_price": 178.6,
+      "closing_value": 62688.6,
+      "ltp": 178.6,
+      "ltp_value": 62688.6
+    },
+    {
+      "symbol": "RFPL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 330.0,
+      "closing_value": 33000.0,
+      "ltp": 330.0,
+      "ltp_value": 33000.0
+    },
+    {
+      "symbol": "RHPL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 80.0,
+      "closing_price": 188.0,
+      "closing_value": 15040.0,
+      "ltp": 188.0,
+      "ltp_value": 15040.0
+    },
+    {
+      "symbol": "RIDI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 345.9,
+      "closing_value": 34590.0,
+      "ltp": 345.9,
+      "ltp_value": 34590.0
+    },
+    {
+      "symbol": "RSY",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 9.44,
+      "closing_value": 944.0,
+      "ltp": 9.44,
+      "ltp_value": 944.0
+    },
+    {
+      "symbol": "RURU",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 110.0,
+      "closing_price": 585.0,
+      "closing_value": 64350.0,
+      "ltp": 585.0,
+      "ltp_value": 64350.0
+    },
+    {
+      "symbol": "SANVI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 579.0,
+      "closing_value": 57900.0,
+      "ltp": 579.0,
+      "ltp_value": 57900.0
+    },
+    {
+      "symbol": "SAPDBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1300.0,
+      "closing_price": 720.0,
+      "closing_value": 936000.0,
+      "ltp": 720.0,
+      "ltp_value": 936000.0
+    },
+    {
+      "symbol": "SBI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 582.0,
+      "closing_price": 400.0,
+      "closing_value": 232800.0,
+      "ltp": 400.0,
+      "ltp_value": 232800.0
+    },
+    {
+      "symbol": "SCB",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 653.0,
+      "closing_price": 645.0,
+      "closing_value": 421185.0,
+      "ltp": 645.0,
+      "ltp_value": 421185.0
+    },
+    {
+      "symbol": "SGHL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 200.0,
+      "closing_price": 493.8,
+      "closing_value": 98760.0,
+      "ltp": 493.8,
+      "ltp_value": 98760.0
+    },
+    {
+      "symbol": "SGIC",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1.0,
+      "closing_price": 400.1,
+      "closing_value": 400.1,
+      "ltp": 400.1,
+      "ltp_value": 400.1
+    },
+    {
+      "symbol": "SHEL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 21.0,
+      "closing_price": 292.6,
+      "closing_value": 6144.6,
+      "ltp": 292.6,
+      "ltp_value": 6144.6
+    },
+    {
+      "symbol": "SHIVM",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 63.0,
+      "closing_price": 650.0,
+      "closing_value": 40950.0,
+      "ltp": 650.0,
+      "ltp_value": 40950.0
+    },
+    {
+      "symbol": "SICL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 440.0,
+      "closing_price": 559.0,
+      "closing_value": 245960.0,
+      "ltp": 559.0,
+      "ltp_value": 245960.0
+    },
+    {
+      "symbol": "SJCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 40.0,
+      "closing_price": 227.0,
+      "closing_value": 9080.0,
+      "ltp": 227.0,
+      "ltp_value": 9080.0
+    },
+    {
+      "symbol": "SKBBL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1361.0,
+      "closing_price": 742.5,
+      "closing_value": 1010542.5,
+      "ltp": 742.5,
+      "ltp_value": 1010542.5
+    },
+    {
+      "symbol": "SLBSL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 300.0,
+      "closing_price": 877.0,
+      "closing_value": 263100.0,
+      "ltp": 877.0,
+      "ltp_value": 263100.0
+    },
+    {
+      "symbol": "SNLI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 2.0,
+      "closing_price": 390.0,
+      "closing_value": 780.0,
+      "ltp": 390.0,
+      "ltp_value": 780.0
+    },
+    {
+      "symbol": "SONA",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 408.0,
+      "closing_value": 4080.0,
+      "ltp": 408.0,
+      "ltp_value": 4080.0
+    },
+    {
+      "symbol": "SPIL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 177.0,
+      "closing_price": 625.0,
+      "closing_value": 110625.0,
+      "ltp": 625.0,
+      "ltp_value": 110625.0
+    },
+    {
+      "symbol": "SRLI",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 11.0,
+      "closing_price": 357.3,
+      "closing_value": 3930.3,
+      "ltp": 357.3,
+      "ltp_value": 3930.3
+    },
+    {
+      "symbol": "SSHL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 1200.0,
+      "closing_price": 194.0,
+      "closing_value": 232800.0,
+      "ltp": 194.0,
+      "ltp_value": 232800.0
+    },
+    {
+      "symbol": "TVCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 50.0,
+      "closing_price": 354.0,
+      "closing_value": 17700.0,
+      "ltp": 354.0,
+      "ltp_value": 17700.0
+    },
+    {
+      "symbol": "UAIL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 32.0,
+      "closing_price": 388.8,
+      "closing_value": 12441.6,
+      "ltp": 388.8,
+      "ltp_value": 12441.6
+    },
+    {
+      "symbol": "UMRH",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 11.0,
+      "closing_price": 519.7,
+      "closing_value": 5716.7,
+      "ltp": 519.7,
+      "ltp_value": 5716.7
+    },
+    {
+      "symbol": "UPCL",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 93.0,
+      "closing_price": 333.0,
+      "closing_value": 30969.0,
+      "ltp": 333.0,
+      "ltp_value": 30969.0
+    },
+    {
+      "symbol": "UPPER",
+      "buyer": "Birendra",
+      "broker": "Laxmi Capital",
+      "shares": 320.0,
+      "closing_price": 184.0,
+      "closing_value": 58880.0,
+      "ltp": 184.0,
+      "ltp_value": 58880.0
+    },
+    {
+      "symbol": "AKJCL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 50.0,
+      "closing_price": 343.0,
+      "closing_value": 17150.0,
+      "ltp": 343.0,
+      "ltp_value": 17150.0
+    },
+    {
+      "symbol": "AKPL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 25.0,
+      "closing_price": 244.0,
+      "closing_value": 6100.0,
+      "ltp": 244.0,
+      "ltp_value": 6100.0
+    },
+    {
+      "symbol": "API",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 57.0,
+      "closing_price": 325.9,
+      "closing_value": 18576.3,
+      "ltp": 325.9,
+      "ltp_value": 18576.3
+    },
+    {
+      "symbol": "BHL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 199.7,
+      "closing_value": 3994.0,
+      "ltp": 199.7,
+      "ltp_value": 3994.0
+    },
+    {
+      "symbol": "CORBL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 110.0,
+      "closing_price": 902.2,
+      "closing_value": 99242.0,
+      "ltp": 902.2,
+      "ltp_value": 99242.0
+    },
+    {
+      "symbol": "CZBIL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 14.0,
+      "closing_price": 194.8,
+      "closing_value": 2727.2,
+      "ltp": 194.8,
+      "ltp_value": 2727.2
+    },
+    {
+      "symbol": "DORDI",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 200.0,
+      "closing_price": 242.0,
+      "closing_value": 48400.0,
+      "ltp": 242.0,
+      "ltp_value": 48400.0
+    },
+    {
+      "symbol": "GHL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 90.0,
+      "closing_price": 226.9,
+      "closing_value": 20421.0,
+      "ltp": 226.9,
+      "ltp_value": 20421.0
+    },
+    {
+      "symbol": "HBL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 873.0,
+      "closing_price": 188.7,
+      "closing_value": 164735.1,
+      "ltp": 188.7,
+      "ltp_value": 164735.1
+    },
+    {
+      "symbol": "HHL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 326.8,
+      "closing_value": 32680.0,
+      "ltp": 326.8,
+      "ltp_value": 32680.0
+    },
+    {
+      "symbol": "HIDCL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 75.0,
+      "closing_price": 242.0,
+      "closing_value": 18150.0,
+      "ltp": 242.0,
+      "ltp_value": 18150.0
+    },
+    {
+      "symbol": "HPPL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 369.0,
+      "closing_value": 5535.0,
+      "ltp": 369.0,
+      "ltp_value": 5535.0
+    },
+    {
+      "symbol": "HRL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 32.0,
+      "closing_price": 537.4,
+      "closing_value": 17196.8,
+      "ltp": 537.4,
+      "ltp_value": 17196.8
+    },
+    {
+      "symbol": "JOSHI",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 33.0,
+      "closing_price": 259.8,
+      "closing_value": 8573.4,
+      "ltp": 259.8,
+      "ltp_value": 8573.4
+    },
+    {
+      "symbol": "KBL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 662.0,
+      "closing_price": 212.0,
+      "closing_value": 140344.0,
+      "ltp": 212.0,
+      "ltp_value": 140344.0
+    },
+    {
+      "symbol": "KPCL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 454.0,
+      "closing_value": 6810.0,
+      "ltp": 454.0,
+      "ltp_value": 6810.0
+    },
+    {
+      "symbol": "MBJC",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 257.1,
+      "closing_value": 2571.0,
+      "ltp": 257.1,
+      "ltp_value": 2571.0
+    },
+    {
+      "symbol": "MCHL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 254.0,
+      "closing_value": 25400.0,
+      "ltp": 254.0,
+      "ltp_value": 25400.0
+    },
+    {
+      "symbol": "MEHL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 100.0,
+      "closing_price": 234.6,
+      "closing_value": 23460.0,
+      "ltp": 234.6,
+      "ltp_value": 23460.0
+    },
+    {
+      "symbol": "MEL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 300.0,
+      "closing_price": 201.9,
+      "closing_value": 60570.0,
+      "ltp": 201.9,
+      "ltp_value": 60570.0
+    },
+    {
+      "symbol": "MKHC",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 246.9,
+      "closing_value": 2469.0,
+      "ltp": 246.9,
+      "ltp_value": 2469.0
+    },
+    {
+      "symbol": "NABIL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 338.0,
+      "closing_price": 540.2,
+      "closing_value": 182587.6,
+      "ltp": 540.2,
+      "ltp_value": 182587.6
+    },
+    {
+      "symbol": "NICA",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 646.0,
+      "closing_price": 308.1,
+      "closing_value": 199032.6,
+      "ltp": 308.1,
+      "ltp_value": 199032.6
+    },
+    {
+      "symbol": "NICLBSL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 528.0,
+      "closing_value": 5280.0,
+      "ltp": 528.0,
+      "ltp_value": 5280.0
+    },
+    {
+      "symbol": "NIFRA",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 54.0,
+      "closing_price": 239.0,
+      "closing_value": 12906.0,
+      "ltp": 239.0,
+      "ltp_value": 12906.0
+    },
+    {
+      "symbol": "NIMB",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 65.0,
+      "closing_price": 185.0,
+      "closing_value": 12025.0,
+      "ltp": 185.0,
+      "ltp_value": 12025.0
+    },
+    {
+      "symbol": "NRIC",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 53.0,
+      "closing_price": 851.0,
+      "closing_value": 45103.0,
+      "ltp": 851.0,
+      "ltp_value": 45103.0
+    },
+    {
+      "symbol": "PCBL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 1744.0,
+      "closing_price": 235.5,
+      "closing_value": 410712.0,
+      "ltp": 235.5,
+      "ltp_value": 410712.0
+    },
+    {
+      "symbol": "PMHPL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 300.0,
+      "closing_value": 3000.0,
+      "ltp": 300.0,
+      "ltp_value": 3000.0
+    },
+    {
+      "symbol": "RNLI",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 12.0,
+      "closing_price": 415.0,
+      "closing_value": 4980.0,
+      "ltp": 415.0,
+      "ltp_value": 4980.0
+    },
+    {
+      "symbol": "SAHAS",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 13.0,
+      "closing_price": 682.0,
+      "closing_value": 8866.0,
+      "ltp": 682.0,
+      "ltp_value": 8866.0
+    },
+    {
+      "symbol": "SCB",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 25.0,
+      "closing_price": 645.0,
+      "closing_value": 16125.0,
+      "ltp": 645.0,
+      "ltp_value": 16125.0
+    },
+    {
+      "symbol": "SICL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 440.0,
+      "closing_price": 559.0,
+      "closing_value": 245960.0,
+      "ltp": 559.0,
+      "ltp_value": 245960.0
+    },
+    {
+      "symbol": "SLBSL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 8.0,
+      "closing_price": 877.0,
+      "closing_value": 7016.0,
+      "ltp": 877.0,
+      "ltp_value": 7016.0
+    },
+    {
+      "symbol": "SMJC",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 419.0,
+      "closing_value": 4190.0,
+      "ltp": 419.0,
+      "ltp_value": 4190.0
+    },
+    {
+      "symbol": "SNLI",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 17.0,
+      "closing_price": 390.0,
+      "closing_value": 6630.0,
+      "ltp": 390.0,
+      "ltp_value": 6630.0
+    },
+    {
+      "symbol": "SONA",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 408.0,
+      "closing_value": 4080.0,
+      "ltp": 408.0,
+      "ltp_value": 4080.0
+    },
+    {
+      "symbol": "SPIL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 27.0,
+      "closing_price": 625.0,
+      "closing_value": 16875.0,
+      "ltp": 625.0,
+      "ltp_value": 16875.0
+    },
+    {
+      "symbol": "TPKHL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 509.0,
+      "closing_value": 5090.0,
+      "ltp": 509.0,
+      "ltp_value": 5090.0
+    },
+    {
+      "symbol": "TSHL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 150.0,
+      "closing_price": 338.0,
+      "closing_value": 50700.0,
+      "ltp": 338.0,
+      "ltp_value": 50700.0
+    },
+    {
+      "symbol": "TVCL",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 354.0,
+      "closing_value": 7080.0,
+      "ltp": 354.0,
+      "ltp_value": 7080.0
+    },
+    {
+      "symbol": "UPPER",
+      "buyer": "Maiya",
+      "broker": "Laxmi Capital",
+      "shares": 80.0,
+      "closing_price": 184.0,
+      "closing_value": 14720.0,
+      "ltp": 184.0,
+      "ltp_value": 14720.0
+    },
+    {
+      "symbol": "ALBSL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 23.0,
+      "closing_price": 1108.0,
+      "closing_value": 25484.0,
+      "ltp": 1108.0,
+      "ltp_value": 25484.0
+    },
+    {
+      "symbol": "BHDC",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 11.0,
+      "closing_price": 420.0,
+      "closing_value": 4620.0,
+      "ltp": 420.0,
+      "ltp_value": 4620.0
+    },
+    {
+      "symbol": "CFCL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 29.0,
+      "closing_price": 585.7,
+      "closing_value": 16985.3,
+      "ltp": 585.7,
+      "ltp_value": 16985.3
+    },
+    {
+      "symbol": "CLI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 13.0,
+      "closing_price": 417.1,
+      "closing_value": 5422.3,
+      "ltp": 417.1,
+      "ltp_value": 5422.3
+    },
+    {
+      "symbol": "DORDI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 242.0,
+      "closing_value": 4840.0,
+      "ltp": 242.0,
+      "ltp_value": 4840.0
+    },
+    {
+      "symbol": "GBLBS",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 666.0,
+      "closing_value": 9990.0,
+      "ltp": 666.0,
+      "ltp_value": 9990.0
+    },
+    {
+      "symbol": "GHL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 90.0,
+      "closing_price": 226.9,
+      "closing_value": 20421.0,
+      "ltp": 226.9,
+      "ltp_value": 20421.0
+    },
+    {
+      "symbol": "GVL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 11.0,
+      "closing_price": 476.2,
+      "closing_value": 5238.2,
+      "ltp": 476.2,
+      "ltp_value": 5238.2
+    },
+    {
+      "symbol": "HIDCL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 75.0,
+      "closing_price": 242.0,
+      "closing_value": 18150.0,
+      "ltp": 242.0,
+      "ltp_value": 18150.0
+    },
+    {
+      "symbol": "HPPL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 369.0,
+      "closing_value": 3690.0,
+      "ltp": 369.0,
+      "ltp_value": 3690.0
+    },
+    {
+      "symbol": "HRL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 32.0,
+      "closing_price": 537.4,
+      "closing_value": 17196.8,
+      "ltp": 537.4,
+      "ltp_value": 17196.8
+    },
+    {
+      "symbol": "ILI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 12.0,
+      "closing_price": 403.2,
+      "closing_value": 4838.4,
+      "ltp": 403.2,
+      "ltp_value": 4838.4
+    },
+    {
+      "symbol": "JOSHI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 33.0,
+      "closing_price": 259.8,
+      "closing_value": 8573.4,
+      "ltp": 259.8,
+      "ltp_value": 8573.4
+    },
+    {
+      "symbol": "MEL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 201.9,
+      "closing_value": 2019.0,
+      "ltp": 201.9,
+      "ltp_value": 2019.0
+    },
+    {
+      "symbol": "NICLBSL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 528.0,
+      "closing_value": 10560.0,
+      "ltp": 528.0,
+      "ltp_value": 10560.0
+    },
+    {
+      "symbol": "NIFRA",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 54.0,
+      "closing_price": 239.0,
+      "closing_value": 12906.0,
+      "ltp": 239.0,
+      "ltp_value": 12906.0
+    },
+    {
+      "symbol": "NIMB",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 65.0,
+      "closing_price": 185.0,
+      "closing_value": 12025.0,
+      "ltp": 185.0,
+      "ltp_value": 12025.0
+    },
+    {
+      "symbol": "NRIC",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 53.0,
+      "closing_price": 851.0,
+      "closing_value": 45103.0,
+      "ltp": 851.0,
+      "ltp_value": 45103.0
+    },
+    {
+      "symbol": "NRM",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 288.5,
+      "closing_value": 2885.0,
+      "ltp": 288.5,
+      "ltp_value": 2885.0
+    },
+    {
+      "symbol": "NRN",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 1349.5,
+      "closing_value": 20242.5,
+      "ltp": 1349.5,
+      "ltp_value": 20242.5
+    },
+    {
+      "symbol": "NYADI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 350.0,
+      "closing_value": 3500.0,
+      "ltp": 350.0,
+      "ltp_value": 3500.0
+    },
+    {
+      "symbol": "PHCL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 297.6,
+      "closing_value": 2976.0,
+      "ltp": 297.6,
+      "ltp_value": 2976.0
+    },
+    {
+      "symbol": "PMLI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 13.0,
+      "closing_price": 409.9,
+      "closing_value": 5328.7,
+      "ltp": 409.9,
+      "ltp_value": 5328.7
+    },
+    {
+      "symbol": "SANVI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 579.0,
+      "closing_value": 5790.0,
+      "ltp": 579.0,
+      "ltp_value": 5790.0
+    },
+    {
+      "symbol": "SCB",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 25.0,
+      "closing_price": 645.0,
+      "closing_value": 16125.0,
+      "ltp": 645.0,
+      "ltp_value": 16125.0
+    },
+    {
+      "symbol": "SGHC",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 290.0,
+      "closing_value": 2900.0,
+      "ltp": 290.0,
+      "ltp_value": 2900.0
+    },
+    {
+      "symbol": "SGIC",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 400.1,
+      "closing_value": 4001.0,
+      "ltp": 400.1,
+      "ltp_value": 4001.0
+    },
+    {
+      "symbol": "SHIVM",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 63.0,
+      "closing_price": 650.0,
+      "closing_value": 40950.0,
+      "ltp": 650.0,
+      "ltp_value": 40950.0
+    },
+    {
+      "symbol": "SJLIC",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 402.8,
+      "closing_value": 4028.0,
+      "ltp": 402.8,
+      "ltp_value": 4028.0
+    },
+    {
+      "symbol": "SNLI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 17.0,
+      "closing_price": 390.0,
+      "closing_value": 6630.0,
+      "ltp": 390.0,
+      "ltp_value": 6630.0
+    },
+    {
+      "symbol": "SONA",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 408.0,
+      "closing_value": 4080.0,
+      "ltp": 408.0,
+      "ltp_value": 4080.0
+    },
+    {
+      "symbol": "SPDL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 17.0,
+      "closing_price": 353.0,
+      "closing_value": 6001.0,
+      "ltp": 353.0,
+      "ltp_value": 6001.0
+    },
+    {
+      "symbol": "SRLI",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 11.0,
+      "closing_price": 357.3,
+      "closing_value": 3930.3,
+      "ltp": 357.3,
+      "ltp_value": 3930.3
+    },
+    {
+      "symbol": "UAIL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 388.8,
+      "closing_value": 3888.0,
+      "ltp": 388.8,
+      "ltp_value": 3888.0
+    },
+    {
+      "symbol": "UPCL",
+      "buyer": "Binam",
+      "broker": "Laxmi Capital",
+      "shares": 93.0,
+      "closing_price": 333.0,
+      "closing_value": 30969.0,
+      "ltp": 333.0,
+      "ltp_value": 30969.0
+    },
+    {
+      "symbol": "CYCL",
+      "buyer": "Janak",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 1612.0,
+      "closing_value": 16120.0,
+      "ltp": 1612.0,
+      "ltp_value": 16120.0
+    },
+    {
+      "symbol": "LSL",
+      "buyer": "Janak",
+      "broker": "Laxmi Capital",
+      "shares": 599.0,
+      "closing_price": 217.0,
+      "closing_value": 129983.0,
+      "ltp": 217.0,
+      "ltp_value": 129983.0
+    },
+    {
+      "symbol": "MBL",
+      "buyer": "Janak",
+      "broker": "Laxmi Capital",
+      "shares": 505.0,
+      "closing_price": 248.0,
+      "closing_value": 125240.0,
+      "ltp": 248.0,
+      "ltp_value": 125240.0
+    },
+    {
+      "symbol": "NLIC",
+      "buyer": "Janak",
+      "broker": "Laxmi Capital",
+      "shares": 169.0,
+      "closing_price": 690.3,
+      "closing_value": 116660.7,
+      "ltp": 690.3,
+      "ltp_value": 116660.7
+    },
+    {
+      "symbol": "NRIC",
+      "buyer": "Janak",
+      "broker": "Laxmi Capital",
+      "shares": 53.0,
+      "closing_price": 851.0,
+      "closing_value": 45103.0,
+      "ltp": 851.0,
+      "ltp_value": 45103.0
+    },
+    {
+      "symbol": "PCIL",
+      "buyer": "Janak",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 621.0,
+      "closing_value": 6210.0,
+      "ltp": 621.0,
+      "ltp_value": 6210.0
+    },
+    {
+      "symbol": "DLBS",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 7.0,
+      "closing_price": 1007.1,
+      "closing_value": 7049.7,
+      "ltp": 1007.1,
+      "ltp_value": 7049.7
+    },
+    {
+      "symbol": "DORDI",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 242.0,
+      "closing_value": 4840.0,
+      "ltp": 242.0,
+      "ltp_value": 4840.0
+    },
+    {
+      "symbol": "HHL",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 326.8,
+      "closing_value": 3268.0,
+      "ltp": 326.8,
+      "ltp_value": 3268.0
+    },
+    {
+      "symbol": "HLI",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 12.0,
+      "closing_price": 300.0,
+      "closing_value": 3600.0,
+      "ltp": 300.0,
+      "ltp_value": 3600.0
+    },
+    {
+      "symbol": "HRL",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 21.0,
+      "closing_price": 537.4,
+      "closing_value": 11285.4,
+      "ltp": 537.4,
+      "ltp_value": 11285.4
+    },
+    {
+      "symbol": "IGI",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 843.0,
+      "closing_price": 392.9,
+      "closing_value": 331214.7,
+      "ltp": 392.9,
+      "ltp_value": 331214.7
+    },
+    {
+      "symbol": "ILI",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 2.0,
+      "closing_price": 403.2,
+      "closing_value": 806.4,
+      "ltp": 403.2,
+      "ltp_value": 806.4
+    },
+    {
+      "symbol": "JBLB",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 28.0,
+      "closing_price": 1249.2,
+      "closing_value": 34977.6,
+      "ltp": 1249.2,
+      "ltp_value": 34977.6
+    },
+    {
+      "symbol": "KAHL",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 502.5,
+      "closing_value": 5025.0,
+      "ltp": 502.5,
+      "ltp_value": 5025.0
+    },
+    {
+      "symbol": "KBL",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 167.0,
+      "closing_price": 212.0,
+      "closing_value": 35404.0,
+      "ltp": 212.0,
+      "ltp_value": 35404.0
+    },
+    {
+      "symbol": "LLBS",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 44.0,
+      "closing_price": 882.0,
+      "closing_value": 38808.0,
+      "ltp": 882.0,
+      "ltp_value": 38808.0
+    },
+    {
+      "symbol": "NABIL",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 39.0,
+      "closing_price": 540.2,
+      "closing_value": 21067.8,
+      "ltp": 540.2,
+      "ltp_value": 21067.8
+    },
+    {
+      "symbol": "PMLI",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 13.0,
+      "closing_price": 409.9,
+      "closing_value": 5328.7,
+      "ltp": 409.9,
+      "ltp_value": 5328.7
+    },
+    {
+      "symbol": "SGHL",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 493.8,
+      "closing_value": 4938.0,
+      "ltp": 493.8,
+      "ltp_value": 4938.0
+    },
+    {
+      "symbol": "SGIC",
+      "buyer": "Junu",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 400.1,
+      "closing_value": 4001.0,
+      "ltp": 400.1,
+      "ltp_value": 4001.0
+    },
+    {
+      "symbol": "CFCL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 29.0,
+      "closing_price": 585.7,
+      "closing_value": 16985.3,
+      "ltp": 585.7,
+      "ltp_value": 16985.3
+    },
+    {
+      "symbol": "CLI",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 13.0,
+      "closing_price": 417.1,
+      "closing_value": 5422.3,
+      "ltp": 417.1,
+      "ltp_value": 5422.3
+    },
+    {
+      "symbol": "GHL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 90.0,
+      "closing_price": 226.9,
+      "closing_value": 20421.0,
+      "ltp": 226.9,
+      "ltp_value": 20421.0
+    },
+    {
+      "symbol": "GMFBS",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 14.0,
+      "closing_price": 1146.0,
+      "closing_value": 16044.0,
+      "ltp": 1146.0,
+      "ltp_value": 16044.0
+    },
+    {
+      "symbol": "HATHY",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 2.0,
+      "closing_price": 625.5,
+      "closing_value": 1251.0,
+      "ltp": 625.5,
+      "ltp_value": 1251.0
+    },
+    {
+      "symbol": "HBL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 188.7,
+      "closing_value": 1887.0,
+      "ltp": 188.7,
+      "ltp_value": 1887.0
+    },
+    {
+      "symbol": "HIDCL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 25.0,
+      "closing_price": 242.0,
+      "closing_value": 6050.0,
+      "ltp": 242.0,
+      "ltp_value": 6050.0
+    },
+    {
+      "symbol": "HPPL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 30.0,
+      "closing_price": 369.0,
+      "closing_value": 11070.0,
+      "ltp": 369.0,
+      "ltp_value": 11070.0
+    },
+    {
+      "symbol": "HRL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 21.0,
+      "closing_price": 537.4,
+      "closing_value": 11285.4,
+      "ltp": 537.4,
+      "ltp_value": 11285.4
+    },
+    {
+      "symbol": "JOSHI",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 33.0,
+      "closing_price": 259.8,
+      "closing_value": 8573.4,
+      "ltp": 259.8,
+      "ltp_value": 8573.4
+    },
+    {
+      "symbol": "KPCL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 15.0,
+      "closing_price": 454.0,
+      "closing_value": 6810.0,
+      "ltp": 454.0,
+      "ltp_value": 6810.0
+    },
+    {
+      "symbol": "MKCL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 870.0,
+      "closing_value": 8700.0,
+      "ltp": 870.0,
+      "ltp_value": 8700.0
+    },
+    {
+      "symbol": "NABIL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 148.0,
+      "closing_price": 540.2,
+      "closing_value": 79949.6,
+      "ltp": 540.2,
+      "ltp_value": 79949.6
+    },
+    {
+      "symbol": "NADEP",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 30.0,
+      "closing_price": 714.0,
+      "closing_value": 21420.0,
+      "ltp": 714.0,
+      "ltp_value": 21420.0
+    },
+    {
+      "symbol": "NICLBSL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 528.0,
+      "closing_value": 5280.0,
+      "ltp": 528.0,
+      "ltp_value": 5280.0
+    },
+    {
+      "symbol": "NIFRA",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 54.0,
+      "closing_price": 239.0,
+      "closing_value": 12906.0,
+      "ltp": 239.0,
+      "ltp_value": 12906.0
+    },
+    {
+      "symbol": "NIMB",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 25.0,
+      "closing_price": 185.0,
+      "closing_value": 4625.0,
+      "ltp": 185.0,
+      "ltp_value": 4625.0
+    },
+    {
+      "symbol": "NRIC",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 53.0,
+      "closing_price": 851.0,
+      "closing_value": 45103.0,
+      "ltp": 851.0,
+      "ltp_value": 45103.0
+    },
+    {
+      "symbol": "NRN",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 1.0,
+      "closing_price": 1349.5,
+      "closing_value": 1349.5,
+      "ltp": 1349.5,
+      "ltp_value": 1349.5
+    },
+    {
+      "symbol": "PPCL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 30.0,
+      "closing_price": 326.9,
+      "closing_value": 9807.0,
+      "ltp": 326.9,
+      "ltp_value": 9807.0
+    },
+    {
+      "symbol": "RIDI",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 345.9,
+      "closing_value": 6918.0,
+      "ltp": 345.9,
+      "ltp_value": 6918.0
+    },
+    {
+      "symbol": "RNLI",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 12.0,
+      "closing_price": 415.0,
+      "closing_value": 4980.0,
+      "ltp": 415.0,
+      "ltp_value": 4980.0
+    },
+    {
+      "symbol": "SGHL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 493.8,
+      "closing_value": 4938.0,
+      "ltp": 493.8,
+      "ltp_value": 4938.0
+    },
+    {
+      "symbol": "SGIC",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 400.1,
+      "closing_value": 4001.0,
+      "ltp": 400.1,
+      "ltp_value": 4001.0
+    },
+    {
+      "symbol": "SNLI",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 17.0,
+      "closing_price": 390.0,
+      "closing_value": 6630.0,
+      "ltp": 390.0,
+      "ltp_value": 6630.0
+    },
+    {
+      "symbol": "SONA",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 10.0,
+      "closing_price": 408.0,
+      "closing_value": 4080.0,
+      "ltp": 408.0,
+      "ltp_value": 4080.0
+    },
+    {
+      "symbol": "TVCL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 20.0,
+      "closing_price": 354.0,
+      "closing_value": 7080.0,
+      "ltp": 354.0,
+      "ltp_value": 7080.0
+    },
+    {
+      "symbol": "UPCL",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 93.0,
+      "closing_price": 333.0,
+      "closing_value": 30969.0,
+      "ltp": 333.0,
+      "ltp_value": 30969.0
+    },
+    {
+      "symbol": "UPPER",
+      "buyer": "Sita",
+      "broker": "Laxmi Capital",
+      "shares": 80.0,
+      "closing_price": 184.0,
+      "closing_value": 14720.0,
+      "ltp": 184.0,
+      "ltp_value": 14720.0
+    }
+  ],
+  "buyer_summary": {
+    "Birendra": {
+      "total_shares": 38567.0,
+      "total_value": 15737277.8,
+      "unique_stocks": 110,
+      "avg_value_per_stock": 143066.16181818183
+    },
+    "Maiya": {
+      "total_shares": 6633.0,
+      "total_value": 1988063.0,
+      "unique_stocks": 42,
+      "avg_value_per_stock": 47334.833333333336
+    },
+    "Binam": {
+      "total_shares": 920.0,
+      "total_value": 392286.9,
+      "unique_stocks": 35,
+      "avg_value_per_stock": 11208.197142857143
+    },
+    "Janak": {
+      "total_shares": 1346.0,
+      "total_value": 439316.7,
+      "unique_stocks": 6,
+      "avg_value_per_stock": 73219.45
+    },
+    "Junu": {
+      "total_shares": 1236.0,
+      "total_value": 511614.3,
+      "unique_stocks": 15,
+      "avg_value_per_stock": 34107.62
+    },
+    "Sita": {
+      "total_shares": 915.0,
+      "total_value": 379255.5,
+      "unique_stocks": 29,
+      "avg_value_per_stock": 13077.775862068966
+    }
+  },
+  "meta": {
+    "total_stocks": 133,
+    "total_entries": 270,
+    "total_value": 19447814.2,
+    "total_shares": 49617.0
+  }
+}
